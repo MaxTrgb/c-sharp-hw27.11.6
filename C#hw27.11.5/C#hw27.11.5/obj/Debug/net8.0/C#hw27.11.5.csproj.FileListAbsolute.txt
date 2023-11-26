@@ -1,0 +1,14 @@
+D:\Study\С#\C#hw27.11.5\C#hw27.11.5\bin\Debug\net8.0\C#hw27.11.5.exe
+D:\Study\С#\C#hw27.11.5\C#hw27.11.5\bin\Debug\net8.0\C#hw27.11.5.deps.json
+D:\Study\С#\C#hw27.11.5\C#hw27.11.5\bin\Debug\net8.0\C#hw27.11.5.runtimeconfig.json
+D:\Study\С#\C#hw27.11.5\C#hw27.11.5\bin\Debug\net8.0\C#hw27.11.5.dll
+D:\Study\С#\C#hw27.11.5\C#hw27.11.5\bin\Debug\net8.0\C#hw27.11.5.pdb
+D:\Study\С#\C#hw27.11.5\C#hw27.11.5\obj\Debug\net8.0\C#hw27.11.5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\С#\C#hw27.11.5\C#hw27.11.5\obj\Debug\net8.0\C#hw27.11.5.AssemblyInfoInputs.cache
+D:\Study\С#\C#hw27.11.5\C#hw27.11.5\obj\Debug\net8.0\C#hw27.11.5.AssemblyInfo.cs
+D:\Study\С#\C#hw27.11.5\C#hw27.11.5\obj\Debug\net8.0\C#hw27.11.5.csproj.CoreCompileInputs.cache
+D:\Study\С#\C#hw27.11.5\C#hw27.11.5\obj\Debug\net8.0\C#hw27.11.5.dll
+D:\Study\С#\C#hw27.11.5\C#hw27.11.5\obj\Debug\net8.0\refint\C#hw27.11.5.dll
+D:\Study\С#\C#hw27.11.5\C#hw27.11.5\obj\Debug\net8.0\C#hw27.11.5.pdb
+D:\Study\С#\C#hw27.11.5\C#hw27.11.5\obj\Debug\net8.0\C#hw27.11.5.genruntimeconfig.cache
+D:\Study\С#\C#hw27.11.5\C#hw27.11.5\obj\Debug\net8.0\ref\C#hw27.11.5.dll
